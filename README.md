@@ -4,6 +4,8 @@
 
 대구 AI_HUB Living Lab+ (2024.07~08)에서 시작한 프로젝트를 실제 저장소 구조로 재구성한 버전입니다. 원본 배경/트러블슈팅/회고는 Notion 문서를 참고하세요.
 
+전체 아키텍처, 각 파일의 역할, 재현 방법을 정리한 연구 보고서는 [docs/RESEARCH_REPORT.md](docs/RESEARCH_REPORT.md)에 있습니다.
+
 ## 파이프라인
 
 ```
