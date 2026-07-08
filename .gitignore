@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Data (kept out of git; see data/README.md for expected layout)
+data/*
+!data/README.md
+
+# Trained weights / exported models
+*.pt
+*.bin
+*.onnx
+runs/
+web/model/
+
+# External clones (YOLOv5, etc.)
+third_party/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+.claude/

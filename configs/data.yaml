@@ -1,0 +1,8 @@
+# YOLOv5 데이터셋 설정. data/README.md의 레이아웃을 따른다.
+path: ../data/yolo
+train: images/train
+val: images/val
+test: images/test
+
+nc: 6
+names: ['cardboard', 'paper', 'metal', 'plastic', 'glass', 'trash']
